@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py lwa4p arm lwa4p_ikfast_arm_plugin /home/mp400/ros_catkin_ws/src/lwa4p_ikfast_arm_plugin/src/lwa4p_arm_ikfast_solver.cpp
